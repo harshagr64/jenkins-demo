@@ -5,7 +5,7 @@ pipeline {
 		environment {
 			scannerHome = tool 'Sonar Scanner'
 		}
-		
+		}
     }
   }
 }
